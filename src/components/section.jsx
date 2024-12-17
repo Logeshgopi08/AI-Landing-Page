@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import SectionSvg from "../assets/svg/SectionSvg";
 
 const Section = ({
